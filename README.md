@@ -27,7 +27,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Aaraif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaraifkhan&show_icons=true&theme=tokyonight)  
+![Aaraif's GitHub Stats](https://github-readme-stats.herokuapp.com/api?username=aaraifkhan&show_icons=true&theme=tokyonight)  
 
 ---
 
