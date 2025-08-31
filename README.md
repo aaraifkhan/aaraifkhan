@@ -15,8 +15,9 @@
 
 ---
 
-## 📊 GitHub Stats
-![Aaraif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaraifkhan&show_icons=true&theme=tokyonight)  
+## 🗓️ Contributions Calendar
+
+![GitHub Contribution Dots](https://ghchart.rshah.org/2E7D32/aaraifkhan)
 
 ---
 
@@ -25,9 +26,8 @@
 
 ---
 
-## 🗓️ Contributions Calendar
-
-![GitHub Contribution Dots](https://ghchart.rshah.org/006AFF/aaraifkhan)
+## 📊 GitHub Stats
+![Aaraif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaraifkhan&show_icons=true&theme=tokyonight)  
 
 ---
 
