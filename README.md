@@ -25,6 +25,12 @@
 
 ---
 
+## 🗓️ Contributions Calendar
+
+![GitHub Contribution Dots](https://ghchart.rshah.org/006AFF/aaraifkhan)
+
+---
+
 ## 🌐 Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/aaraif-hanif)  
 - 📧 Email: aaraifhanif@gmail.com  
