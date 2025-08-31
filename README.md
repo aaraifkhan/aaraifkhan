@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋, I'm Muhammad Aaraif Hanif  
 
-<!--
-**aaraifkhan/aaraifkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **MERN Stack Developer | Flutter Developer**  
+💻 Passionate about building scalable web apps & mobile solutions.  
+⚡ Love solving real-world problems with clean code.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Frontend:** React.js, Redux, TailwindCSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, MySQL, SQLite  
+- **Mobile:** Flutter (Dart)  
+- **Other Tools:** Git, GitHub, Firebase, REST APIs  
+
+---
+
+## 📊 GitHub Stats
+![Aaraif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadAaraifHanif&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAaraifHanif&layout=compact&theme=tokyonight)  
+
+---
+
+## 📈 GitHub Contribution Graph (Green Squares)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAaraifHanif&theme=tokyonight)  
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAaraifHanif&theme=tokyo-night)  
+
+---
+
+## 🌐 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/aaraif-hanif)  
+- 📧 Email: aaraifhanif@gmail.com  
+- 🌍 Portfolio: mahk.pk  
+
+---
+⭐️ From [Muhammad Aaraif Hanif](https://github.com/aaraifkhan)
