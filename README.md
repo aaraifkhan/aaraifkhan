@@ -16,9 +16,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Aaraif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadAaraifHanif&show_icons=true&theme=tokyonight)  
+![Aaraif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaraifkhan&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAaraifHanif&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaraifkhan&layout=compact&theme=tokyonight)  
 
 ---
 
