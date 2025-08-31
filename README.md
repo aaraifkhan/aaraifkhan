@@ -26,10 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Aaraif's GitHub Stats](https://github-readme-stats.herokuapp.com/api?username=aaraifkhan&show_icons=true&theme=tokyonight)  
-
----
 
 ## 🌐 Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/aaraif-hanif)  
