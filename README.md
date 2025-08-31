@@ -18,14 +18,10 @@
 ## 📊 GitHub Stats
 ![Aaraif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaraifkhan&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaraifkhan&layout=compact&theme=tokyonight)  
-
 ---
 
-## 📈 GitHub Contribution Graph (Green Squares)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAaraifHanif&theme=tokyonight)  
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAaraifHanif&theme=tokyo-night)  
+## 📈 GitHub Contribution Graph
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaraifkhan&theme=tokyonight)    
 
 ---
 
