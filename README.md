@@ -30,7 +30,7 @@
 ## 🌐 Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/aaraif-hanif)  
 - 📧 Email: aaraifhanif@gmail.com  
-- 🌍 Portfolio: mahk.pk  
+- 🌍 Portfolio: [Mahk.pk](https://mahk.pk)  
 
 ---
 ⭐️ From [Muhammad Aaraif Hanif](https://github.com/aaraifkhan)
